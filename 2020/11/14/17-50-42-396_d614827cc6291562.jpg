@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+
+    <title>SMMLab｜【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+    <meta property="og:url" content="https://smmlab.jp/article/how-to-use-instagram-shopping/">
+    <meta property="og:image" content="https://smmlab.jp/wp-content/uploads/2020/11/ogp_201030.jpg">
+    <meta property="og:site_name" content="SMMLab|マーケティングの「理論と実践」をつなぐ場所'">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:title" content="SMMLab｜【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント">
+    <meta property="og:description" content="新型コロナウイルス感染症の拡大により、2020年は私たちをとりまく環境が大きく変わった1年でした。生活者の意識も変化し、生活者に提供されるサービスや商品自体も変化しつつあります。こうした中、Instagramは「EC機能」を強化させる動きを">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SMMLab｜【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント">
+    <meta name="twitter:description" content="新型コロナウイルス感染症の拡大により、2020年は私たちをとりまく環境が大きく変わった1年でした。生活者の意識も変化し、生活者に提供されるサービスや商品自体も変化しつつあります。こうした中、Instagramは「EC機能」を強化させる動きを">
+    <meta name="twitter:image:src" content="https://smmlab.jp/wp-content/uploads/2020/11/ogp_201030.jpg">
+    <meta name="twitter:site" content="@smmlab" />
+
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700&display=swap&subset=japanese" rel="stylesheet">
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css' rel='stylesheet'>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css' rel='stylesheet'>
+    <link href="https://smmlab.jp/wp-content/themes/smm-lab/css/common.css" rel="stylesheet">
+    <link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://smmlab.jp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://smmlab.jp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="canonical" href="https://smmlab.jp/article/how-to-use-instagram-shopping/" />
+<link rel="alternate" type="application/json+oembed" href="https://smmlab.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://smmlab.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.45.6-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					Object.defineProperty(window.hbspt.forms, 'create', {
+						configurable: true,
+						get: function() {
+							return hbspt._wpCreateForm;
+						},
+						set: function(value) {
+							hbspt._wpCreateForm = value;
+							for (var i = 0; i < hbspt._wpFormsQueue.length; i++) {
+								var formDef = hbspt._wpFormsQueue[i];
+								hbspt._wpCreateForm.call(hbspt.forms, formDef);
+							}
+						},
+					})
+				})();
+			</script>
+		
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '976733389052083');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=976733389052083&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-73529956-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73529956-1');
+    </script>
+    <!-- End Global site tag (gtag.js) - Google Analytics -->
+
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2021159.js"></script>
+    <!-- End of HubSpot Embed Code -->
+</head>
+<body>
+
+<header class="header" id="jsHeader">
+    <div class="header_inner">
+        <div class="header_title-wrap">
+            <h1 class="header_title"><a href="/"><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/pic_logo.png" alt="SMMLab"></a><span>マーケティングの「理論と実践」<br class="tab">をつなぐ場所</span></h1>
+            <div class="nav-button" id="jsNavButton">
+                <a href="">
+                    <span></span>
+                    <span></span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="nav-wrap">
+        <nav class="nav" id="jsNav">
+            <div class="search-box" id="jsSearchBox">
+                <form method="get" action="/search/" target="_top">
+                    <input type="text" placeholder="記事を検索" class="search_text" name="key_word" value="">
+                    <input type="submit" value="" class="search_button">
+                </form>
+            </div>
+            <ul class="nav_list">
+                <li class="nav_item"><a href="/article/">記事一覧</a></li>
+                <li class="nav_item cate" id="jsCate">
+                    <a href="javascript:void(0)" id="jsMenu">タグから探す</a>
+                    <div class="cate-menu" id="jsCateMenu">
+                        <ul class="cate-menu_list">
+                                                                                    <li class="cate-menu_item"><a href="https://smmlab.jp/tag/twitter/">Twitter</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/instagram/">Instagram</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/line/">LINE</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/youtube/">Youtube</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/facebook/">Facebook</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/d2c/">D2C</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/subscription/">サブスクリプション</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/ugc/">UGC</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/video/">動画</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/influencer/">インフルエンサー</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/interview/">インタビュー</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/case-study/">事例まとめ</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/seminar/">セミナーレポート</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/survey-data/">調査・データ</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/terms/">用語解説</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/direct-marketing/">ダイレクトマーケティング</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/fan-marketing/">ファンマーケティング</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/ads/">広告</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/campaign/">キャンペーン</a></li>
+                                                        <li class="cate-menu_item"><a href="https://smmlab.jp/tag/sns-account/">SNS運用</a></li>
+                                                    </ul>
+                    </div>
+                </li>
+                <li class="nav_item"><a href="/whitepaper/">お役立ち資料</a></li>
+                <li class="nav_item icon"><a href="https://service.aainc.co.jp/seminar/​" target="_blank"><span>セミナー情報</span></a></li>
+                <li class="nav_item search" id="jsSearch"></li>
+            </ul>
+            <div class="header_button">
+                <p class="button mail"><a href="/mail-magazine/">メールマガジン登録</a></p>
+                <ul class="button-wrap">
+                    <li class="button tw"><a href="https://twitter.com/smmlab" rel="nofollow" target="_blank"></a></li>
+                    <li class="button fb"><a href="https://www.facebook.com/smmlab/" rel="nofollow" target="_blank"></a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>
+<main class="main">
+    <article class="article pt1">
+        <section class="details">
+            <h1 class="details_title">【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント</h1>
+            <div class="date-wrap">
+                <p class="date">2020.11.05</p>
+                <p class="c_copy_button"><a href="javascript:copy('【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント　https://smmlab.jp/article/how-to-use-instagram-shopping/');">タイトルとURLをコピー</a></p>
+            </div>
+            <ul class="share-button">
+    <li class="share-button_item tw"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&text=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&tw_p=tweetbutton" target="_blank" rel="nofollow"><span>ツイート</span></a></li>
+    <li class="share-button_item fbs"><a href="https://www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&t=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" target="_blank" rel="nofollow"><span>シェア</span><span class="count">14</span></a></li>
+        <li class="share-button_item hat"><a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F" target="_blank" rel="nofollow"><span>はてブ</span><span class="count"></span></a></li>
+    <li class="share-button_item poc"><a href="https://getpocket.com/edit?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&title=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" target="_blank" rel="nofollow"><span>Pocket</span><span class="count">9</span></a></li>
+</ul>
+            <div class="article-body">
+            
+<div class="full-image"><div>
+<figure><img src="https://smmlab.jp/wp-content/uploads/2020/11/ogp_201030.jpg" alt="ショッピング機能を効率的に活用するための5つのポイント"></figure></div></div>
+<span id="more-49162"></span>
+<p>新型コロナウイルス感染症の拡大により、2020年は私たちをとりまく環境が大きく変わった1年でした。生活者の意識も変化し、生活者に提供されるサービスや商品自体も変化しつつあります。</p>
+
+<p>こうした中、Instagramは「EC機能」を強化させる動きを加速させており、EC事業に取り組む企業にとってInstagramの活用は注目すべき施策となっています。</p>
+
+<p>そこで今回は、InstagramがEC化を進めることになった背景から、Instagram×EC施策を効率的に取り組むための5つのポイントについて解説します。</p>
+
+<div class="contents">
+<div class="contents_inner">
+<h3 class="contents_title c_cont-title">TOPICS</h3>
+<ul class="contents_list">
+<li class="contents_item"><a href="#topic01">2020年、SNSは生活者にとって購買行動と密接に関係する存在に</a></li>
+<li class="contents_item"><a href="#topic02">【Instagram×EC化】活用のために企業がおさえておくべき5つのポイント</a></li>
+<li class="contents_item"><a href="#topic03">　①ショッピングタグ（Instagramショッピング）の活用</a></li>
+<li class="contents_item"><a href="#topic04">　②Instagramショッピングを利用した店舗開設</a></li>
+<li class="contents_item"><a href="#topic05">　③Instagramライブでのライブコマース</a></li>
+<li class="contents_item"><a href="#topic06">　④IGTV、Instagramリール投稿へのショッピングタグの利用</a></li>
+<li class="contents_item"><a href="#topic07">　⑤Instagramショップを意識したアカウント運用</a></li></ul>
+</div></div>
+
+
+<h2 id="topic01">2020年、SNSは生活者にとって購買行動と密接に関係する存在に</h2>
+
+<p>2020年は、新型コロナウイルス感染症の拡大により、世界中で様々な変化が起きた1年でした。特に、感染症拡大の抑制を目的として、外出自粛、学校・オフィスの閉鎖、実店舗での買い物自粛が推奨されるなど、私たちの生活は大きく変化。<br>他者と距離を保ち、接触を避ける生活様式が浸透する中で、今まで以上に「EC」を活用した購買行動は生活者に浸透しています。</p>
+
+<p>アライドアーキテクツが行った調査では、新型コロナウイルス感染症の流行によって<strong>「食品・日用品などの普段の買い物」において約50%のユーザー</strong>が、また<strong>「ファッションや美容商品の消費行動」において約45%のユーザー</strong>が<strong>今後できるだけ通販を利用することに積極的</strong>であることが分かりました。</p>
+
+<div class="full-image">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/08/new-normal-graph01.png" alt="食品・日用品の買い物で通販を利用する割合　グラフ"></center></figure></div></div>
+
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/08/new-normal-graph02.png" alt="ファッション・美容商品の買い物で通販を利用する割合　グラフ"></center></figure>
+<figcaption>データ参照：「<a href="https://smmlab.jp/article/three-important-things-in-the-new-normal/" rel="nofollow noopener noreferrer" target="_blank"><u>新型コロナウイルス感染症拡大以降の「新しい生活様式」における、消費者のSNS利用実態調査</u></a>」（アライドアーキテクツ株式会社）
+</figcaption>
+</div></div>
+
+<div class="contents">
+<div style="padding: 0px 30px !important;" class="contents_inner">
+<p>4,000名の消費者データから、コロナ禍を経て何が変化したのかを洗い出した調査結果についてのコラムはこちらからお読みいただけます！<br>
+▶<a href="https://smmlab.jp/article/three-important-things-in-the-new-normal/" rel="nofollow noopener noreferrer" target="_blank"><u>4,000人の消費者データから考える、「ニューノーマル」時代のマーケティングで大切な3つのこと</u></a></p>
+</div></div>
+
+<p>また、生活者のEC利用の浸透において、スマートフォン起点での買い物が浸透していることは見逃せません。<br>
+コロナ禍以前より日本のEC市場は成長を続けていましたが、<strong>特にスマートフォン起点での物販がその成長を牽引</strong>してきました。経済産業省が2019年に発表した調査によると、<strong>2017年から2018年の1年間で、BtoCのECにおけるスマートフォン経由の市場規模は、6,462億円の3兆6552億円（前年比21.5%増）となり、BtoCのEC全体の39.3%という結果</strong>でした（ ※1）。</p>
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/img3.png" alt="スマートフォン経由の市場規模の直近3年間の推移　グラフ"></center></figure>
+<figcaption>画像引用：<a href="https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf" rel="nofollow noopener noreferrer" target="_blank"><u>平成 30 年度　我が国におけるデータ駆動型社会に係る基盤整備（電子商取引に関する市場調査）｜経済産業省 商務情報政策局 情報経済課</u></a>
+</figcaption></div></div>
+  
+<p>このスマートフォン起点でのEC利用の浸透は、主に<strong>スマートフォン上で接触されるメディアであるSNSと生活者の購買行動との関係性にも変化</strong>をもたらしています。</p>
+
+<p>アライドアーキテクツがインターネットユーザー約2,900名に行った調査では、SNSをきっかけに商品を購入したことがありますか？との問いに対し、主要SNSの全てにおいて半数以上の人が「ある」と回答。特に、<strong>Instagramが最も多く、60.7%の回答者が、Instagramの情報をきっかけにECサイトで商品を購入したことがある</strong>と答えています。</p>
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/10/graph_05.jpg
+" alt="Instagramの情報をきっかけにECサイトで商品を購入したことがある人の割合　グラフ"></center></figure></div></div>
+
+<p>また、<strong>SNSの情報から商品をしり、その場でSNSからECサイトの購入画面を開いて商品を購入する「パルス型」消費行動においても、Instagramが最も多く42.1%</strong>でした。</p>
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="
+https://smmlab.jp/wp-content/uploads/2020/10/graph_07.jpg" alt="「パルス型」消費行動 割合グラフ"></center></figure>
+<figcaption>（上記2つとも）データ参照：「<a href="https://smmlab.jp/article/sns-research-2020/" rel="nofollow noopener noreferrer" target="_blank"><u>SNSをきっかけとした購買行動・口コミ行動調査結果</u></a>」（アライドアーキテクツ株式会社）
+</figcaption></div></div>
+
+<div class="contents">
+<div style="padding: 0px 30px !important;" class="contents_inner">
+<p>SNSをきっかけとした購買行動や口コミ行動について調べた調査をもとに、その傾向を分析・解説しています。<br>
+▶<a href="https://smmlab.jp/article/sns-research-2020/" rel="nofollow noopener noreferrer" target="_blank"><u>【2020年最新版】5大SNSユーザーによる「SNSをきっかけとした購買行動・口コミ行動調査結果」公開！（Twitter、Instagram、Facebook、LINE、YouTube）</u></a></p></div></div>
+
+<p>これらの結果からも、<strong>SNSはただの情報収集やコミュニケーションの場ではなく、より「消費行動」に密接に関わるメディアへと変化</strong>していることがわかります。</p>
+
+<p>同時に、<strong>この傾向は特にInstagramにおいて高い</strong>と言えます。Instagramは生活者にとってより消費行動に近いSNSプラットフォームになりつつあるのです。</p>
+
+
+<h2 id="topic02">【Instagram×EC化】活用のために企業がおさえておくべきつの5つのポイント</h2>
+
+<p>では、実際にEC企業は「購入の場」としてのInstagramをどのように活用していくべきなのでしょうか。ここからは、実際にInstagramをECとして活用するためのポイント５つについて解説していきます。</p>
+
+<h2 id="topic03">①ショッピングタグ（Instagramショッピング）の活用</h2>
+
+<p>ショッピングタグは、2018年にリリースされた、<strong>フィードやストーリーズの投稿に、商品の情報をタグ付けできる機能</strong>です。ユーザーは、タグ付けされた商品について、商品の詳細や購入ページへのリンクを見ることができ、<strong>Instagramを媒介としたスムーズな商品購入が可能となります。</strong></p>
+<div class="full-image">
+<div>
+<figure><center>
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CGhLnCNhe7P/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CGhLnCNhe7P/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener noreferrer"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> この投稿をInstagramで見る</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CGhLnCNhe7P/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener noreferrer">BARNEYS NEW YORK in Japan(@barneysjapan)がシェアした投稿</a> &#8211; <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-10-19T08:30:13+00:00">2020年10月月19日午前1時30分PDT</time></p></div></blockquote> <script async="" src="//www.instagram.com/embed.js"></script></center></figure>
+
+<br>
+
+<figure><center>
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CFrSSJ0AkYq/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CFrSSJ0AkYq/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener noreferrer"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> この投稿をInstagramで見る</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CFrSSJ0AkYq/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener noreferrer">BOTANIST（ボタニスト）(@botanist_official)がシェアした投稿</a> &#8211; <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-09-28T10:09:33+00:00">2020年 9月月28日午前3時09分PDT</time></p></div></blockquote> <script async="" src="//www.instagram.com/embed.js"></script></center></figure>
+
+
+<figcaption>実際にショッピングタグを利用したショッピング投稿の例。<br><a href="https://www.instagram.com/barneysjapan/" rel="nofollow noopener noreferrer" target="_blank"><u>BARNEYS NEW YORK in Japan（上）</u></a>と<a href="https://www.instagram.com/botanist_official/" rel="nofollow noopener noreferrer" target="_blank"><u>BOTANIST（ボタニスト）（下）</u></a>。</figcaption>
+</div></div>
+
+<p>ショッピングタグを利用するためにはまず、<strong>お持ちのアカウントがInstagramショッピングの利用資格があることを<a href="https://www.facebook.com/business/instagram/shopping/guide" rel="nofollow noopener noreferrer" target="_blank"><u>こちらのページで</u></a>確認する必要</strong>があります。</p>
+<p>利用資格の確認が取れたら、<strong>Facebookカタログを準備</strong>します。Facebookカタログへは、Facebookのビジネスマネージャーからアクセスが可能。Instagramショッピング投稿に使いたい商品の商品情報をFacebookカタログに追加し、カタログを完成させます。</p>
+<p>カタログが準備できたら今度は<strong>Instagramのビジネスプロフィールとカタログの紐付け</strong>です。カタログマネージャーの利用方法のタブを開き、Instagramショッピングのタブから「プロフィールをリンク」を選べば完了です。</p>
+
+<p>最後に、<strong>ショッピングの利用登録</strong>です。Instagramアプリの設定画面から、「ビジネス」→「ショッピングに登録」を選び、審査の申請を行ってください。<strong>この審査が承認されると設定が完了し、ショッピングタグの利用が可能</strong>となります。（※2）。</p>
+
+<p>実際の投稿に商品タグを追加する方法については<a href="https://help.instagram.com/2022466637835789" rel="nofollow noopener noreferrer" target="_blank"><u>Instagramのヘルプセンター</u></a>にも詳細がまとまっていますので、運用の際にはあわせてご覧ください。</p>
+
+<p>そして、ショッピング投稿を始めたら広告施策の検討をするのも良いでしょう。<br>
+<strong>ショッピングタグを利用したショッピング投稿は広告として配信することができます</strong>（※3）。<strong>ショッピング投稿をフィード広告として配信すれば、狙ったターゲットに対して効率的にショッピング投稿を届けることが可能</strong>です。</p>
+
+<p>さらに、2020年の9月からは<strong>おすすめの商品やスポットなどを紹介する「まとめ機能」のテストが開始</strong>されました（※4）。<br>
+このまとめ機能を使えば、<strong>Instagramのショッピング機能を利用しているブランドの商品を引用し、まとめ記事を作成</strong>することができます。まとめには写真や動画だけでなく商品名や価格も表示され、タップすると商品詳細ページに飛ぶため、<strong>まとめを見たユーザーに対して購入への導線を作ることができます</strong>。</p>
+<p>また、将来的にはクリエイターやパブリッシャーが作成した商品まとめが発見タブ内の機能「Instagramショップ」に掲載されるようになる予定です。</p>
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/amanoppo_ig.png" style="width:80%;" alt="あまのっぽ　公式Instagramキャプチャ"></center></figure>
+<figcaption>子育て用品を販売する<a href="https://www.instagram.com/amanoppo_official/" rel="nofollow noopener noreferrer" target="_blank"><u>あまのっぽのInstagramアカウント</u></a>での<a href="https://www.instagram.com/amanoppo_official/guide/_/17879758885868779/?igshid=1466hbusx3lnj" rel="nofollow noopener noreferrer" target="_blank"><u>商品まとめ活用事例</u></a>。まとめは、アカウントのプロフィール画面に表示される。商品の活用アイデアや、テーマに沿ったまとめを作成することで、ユーザーに商品やブランドの理解を促すことができる。</figcaption></div></div>
+
+<h2 id="topic04">②Instagramショッピングを利用した店舗開設</h2>
+
+<p>商品ラインナップが多い場合や、Instagramでの購買促進施策により力をいれていきたい場合は、Instagramショッピングの活用もおすすめです。Instagramショッピングは、<strong>ビジネスアカウントやクリエイターアカウントがInstagram上で店舗をもつことができる機能</strong>です。
+日本ではショッピング投稿と同様に、ユーザーは購入したい商品を選び、外部のWebサイトに遷移して購入することができます。</p>
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/marksandweb_ig.png" alt="マークスアンドウェブ 公式Instagram"></center></figure>
+<figcaption>Instagramショップの活用例<a href="https://www.instagram.com/marksandweb/?igshid=24kndglpgyit" rel="nofollow noopener noreferrer" target="_blank"><u>（マークスアンドウェブ）</u></a>Instagramショップをもつと、ビジネスアカウントのプロフィール画面にショップへの導線となるアイコンが表示される。</figcaption></div></div>
+
+
+<p>Instagramショッピングのポイントは<strong>カスタマイズ可能な店舗を持つことができる</strong>こと。<br>
+例えば<strong>コレクションの機能を使えば、商品をテーマ別にまとめてブランドの世界観を表現したり、まとめて見て欲しい商品をユーザーに表示させたりする</strong>ことができます。<br>
+加えて、商品ごとに詳細ページを作ることもでき、<strong>商品価格や詳しい説明など商品にまつわる様々な情報を提供する</strong>ことが可能です。</p>
+
+<p>Instagramショッピングの利用には、ショッピングタグ同様に利用条件があります。開設方法については、<a href="https://business.instagram.com/shopping/setup?igb_blog_shops_launch" rel="nofollow noopener noreferrer" target="_blank"><u>Instagramのビジネスブログ</u></a>にも掲載してありますので、そちらをご確認ください。</p>
+
+
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/bobbibrown_ig.png" alt="ボビーブラウン 公式Instagram"></center></figure>
+<figcaption><a href="https://www.instagram.com/bobbibrown/" rel="nofollow noopener noreferrer" target="_blank"><u>Bobbi Brown Cosmetics</u></a>のグローバルアカウントのInstagramショップではコレクション機能を活用し、テーマごとに商品をグループ分けして表示している（写真中央）また、商品を選ぶと、その詳細情報を知ることができる（写真右）。</figcaption></div></div>
+
+<p>また、2020年10月現在、アメリカでは<strong>Instagramショッピングにおけるチェックアウト機能の提供が始まっています。</strong>チェックアウト機能を使うと、ユーザーは<strong>Instagramショップでの買い物を、Instagramアプリから外部サイトへ遷移することなく完了することができ、よりスムーズな購買体験を得ることができます</strong>（※5）。</p>
+
+<p>さらに、アメリカでは<strong>Instagramでのチェックアウト時にFacebook Payで決済できるサービスの提供も開始</strong>（※6）。これは、事前にFacebook Payでの支払い方法を設定し、Instagramなどのアプリで簡単かつ安全に決済が行える仕組みです。</p>
+
+<p>この他にも、<strong>Instagram上で新商品を発表し、ユーザーにリマインダー設定を促す「商品の発売予定」</strong>、<strong>クリエイターの投稿に商品をタグ付けさせてそこから購入ページに遷移させる「クリエイターからのショッピング」</strong>など、日本ではまた提供されていない機能もたくさんあります。</p>
+
+<p>こうした<strong>ユーザーのInstagram上の購買体験価値を高める機能は、今後アメリカ以外の地域でも拡大される予定であり、InstagramのEC化はますます進む</strong>とみられます。</p>
+
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/zara.png" alt="ZARA 公式Instagram"></center></figure>
+<figcaption>チェックアウト機能が適応されると、このように「Add to Cart」「Buy Now」のボタンが表示され、Instagramアプリから離脱することなく購入を完了させることができる。<a href="https://www.instagram.com/zara/?igshid=chskyqzdnhm" rel="nofollow noopener noreferrer" target="_blank"><u>（事例：ZARA Official）</u></a></figcaption></div></div>
+
+<h2 id="topic05">③Instagramライブでのライブコマース</h2>
+
+<p>Instagramにはショッピング投稿やInstagramショッピング施策の成果をあげるための機能がたくさんあります。<strong>Instagramライブでのライブショッピング機能もそのひとつ。</strong>特にコロナ禍においてオンライン接客のニーズが高まる中、Instagramでのライブコマースは効果的な施策です。</p>
+
+<p>ライブショッピングでは、<strong>ライブの配信映像の下に商品が表示され、視聴ユーザーは、タグ付された商品をタップするだけで、その商品の詳細情報にアクセスしたり購入することができます。</strong></p>
+
+<p>利用するブランド側にとっても、<strong>ユーザーに対して商品の使い方や特徴を詳しく説明することができ、ユーザーからの質問に答えることができるなど、効率的に購入意向を高めて行くことができます。</strong>また、それだけでなく、こうしたアプローチは、<strong>ユーザーとブランドとの関係性を深め、その熱量の醸成にもつながる</strong>でしょう。</p>
+
+<p>Instagramのライブショッピングは、<strong>SNSらしい双方向性のあるコミュニケーションで、ユーザーとの距離を縮めながらしっかりと購買に結びつけることができる機能</strong>だと言えます。</p>
+
+<div class="full-image">
+<div>
+<figure>
+<center><blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/tv/CFRtuuIAFjZ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/tv/CFRtuuIAFjZ/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener noreferrer"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> この投稿をInstagramで見る</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/tv/CFRtuuIAFjZ/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener noreferrer">ESTNATION | エストネーション(@estnation_jp)がシェアした投稿</a> &#8211; <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-09-18T11:49:24+00:00">2020年 9月月18日午前4時49分PDT</time></p></div></blockquote> <script async="" src="//www.instagram.com/embed.js"></script></center>
+<p><a href="https://www.instagram.com/estnation_jp/" rel="nofollow noopener noreferrer" target="_blank"><u>ESTNATION</u></a>のInstagramライブで行われたライブコマースのアーカイブ。アプリから視聴すると、画面下部にショッピングボタンが表示されている。</p></figure>
+</div>
+</div>
+
+<h2 id="topic06">④IGTV、Instagramリール投稿へのショッピングタグの利用</h2>
+
+<p>ライブショッピング以外でも、Instagramの動画コンテンツ領域におけるEC化の動きは進んでいます。</p>
+
+<p>まず、<strong>Instagramのフィードやストーリーズに長尺の動画を投稿できる機能であるIGTVでは、10月5日から、ショッピング機能が利用できるようになりました</strong>（※7）。<br>
+これは、ライブショッピング同様に動画内で紹介した商品をタグ付けし、IGTVの動画内にショッピングボタンから商品への購入導線を作るものです。</p>
+
+<div class="full-image">
+<div>
+<figure>
+<center><blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/tv/CGChzPcq1pR/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/tv/CGChzPcq1pR/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener noreferrer"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> この投稿をInstagramで見る</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/tv/CGChzPcq1pR/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener noreferrer">adidas Originals(@adidasoriginals)がシェアした投稿</a> &#8211; <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-10-07T10:49:18+00:00">2020年10月月7日午前3時49分PDT</time></p></div></blockquote> <script async="" src="//www.instagram.com/embed.js"></script></center>
+<p><a href="https://www.instagram.com/adidasoriginals/" rel="nofollow noopener noreferrer" target="_blank"><u>adidasのグローバルアカウント</u></a>で公開されているIGTVクリエイティブ。動画で見た商品をそのまま購入することができる。
+</p></figure>
+
+</div></div>
+
+<p>IGTVは長尺の動画に対応しているフォーマットなので、<strong>商品についての詳しい説明やブランドストーリーをしっかり伝える</strong>ことができます。動画を見せることによってユーザーに対して商品やブランドの理解を促し、納得したうえでの購入体験を提供することができます。</p>
+
+<p>また、8月にリリースされた短尺動画に特化したリールでも、ショッピングタグを利用する機能のテストがあることが発表されています。<br>
+<strong>様々なエフェクトが利用でき、よりクリエイティビティに溢れた動画を作ることができるリールを使えば、ユーザーの目を引くような商品紹介や商品のインパクトを伝える</strong>こともできます。</p>
+
+<div class="contents">
+<div style="padding: 0px 30px !important;" class="contents_inner">
+<p>Instagramリールの概要についてはこちらの記事もぜひチェックしてください。<br>▶
+<a href="https://smmlab.jp/article/what-is-instagram-reels/" rel="nofollow noopener noreferrer" target="_blank"><u>【Instagramのショートムービー特化機能】Instagramリールとは？</u></a></p></div></div>
+
+<p>これら動画領域のショッピング機能との連携は、ユーザーのInstagram上で購買体験の楽しさや満足度をあげ、ユーザーにとって購入の場としてのInstagramの価値を高めるものだと言えそうです。</p>
+
+<h2 id="topic07">⑤Instagramショップを意識したアカウント運用</h2>
+
+<p>そして、ショッピング投稿やInstagram上の店舗など、Instagramショッピング施策で成果をあげていくために意識したいのは<strong>「Instagramショップ」</strong>の存在です。<br>
+Instagramショップは発見タブの中の<strong>「ショッピング」を選ぶと表示されるショッピングのまとめページ</strong>です。<strong>各ユーザーごとの興味関心に合わせ、ショッピング投稿やコレクション、商品まとめが表示され、ユーザーは自分に合った新しい商品と出会う</strong>ことができます。</p>
+
+<p>企業は、<strong>自社のアカウントでのショッピング投稿や、店舗のコレクションを充実させることで、Instagramショップを訪れた自分たちの商品と親和性の高い新しい顧客との出会いを作ること</strong>ができます。</p>
+<p>また、<strong>Instagramショップを訪れるユーザーはより購買に対するモチベーションが高いユーザーであり、購買につながりやすいという点もポイント</strong>でしょう。<br>
+こうした<strong>Instagramショップ来訪ユーザーを意識し、日々のショッピング投稿やコレクション、商品まとめなどを充実させたアカウント運用</strong>を行うことにより、より高い成果をあげることができるのです。</p>
+
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/ig_shoppingimg.png" style="width:100%;" alt="Instagram　画面キャプチャ1"></center></figure>
+<figcaption>発見タブからショッピングを選ぶと、パーソナライズされたInstagramショップへ移動できる。各ブランドが投稿したショッピング投稿や、ブランドの店舗内でまとめられたコレクションなどが見れる他、閲覧履歴に応じたおすすめ商品なども表示される。</figcaption></div></div>
+
+
+<p>なお、2020年10月現在、<strong>発見タブの中に含まれているInstagramショップのボタンを、独立させて表示させるテストが行われており、3パターンのデザインがランダムで表示されるようになって</strong>います。<br>
+このデザインが正式に採用されれば、ユーザーは発見タブを経由せず、直接ホーム画面からInstagramショップにアクセスすることができ、Instagramショッピングを利用するユーザーはますます増加するとみられます。</p>
+
+<div class="full-image" style="margin: 1em;">
+<div>
+<figure><center><img src="https://smmlab.jp/wp-content/uploads/2020/11/Instagram.jpg" alt="Instagram　公式Twitter　キャプチャ"></center></figure>
+<figcaption>画像引用：<a href="https://twitter.com/instagram/status/1303726253220835329"><u>Instagram公式Twitter</u></a></figcaption></div></div>
+
+<p>いかがでしたか？SNSを「商品購入の場」としてとらえる生活者が増えると同時に、Instagramはどんどんそのショッピング機能の充実を測っています。<br>
+今後ますます、Instagram上での買い物は生活者にとって馴染みのあるものになってくるとみられ、EC事業にとりくむ企業にとってInstagramのショッピング機能の活用は、重要な施策の１つとなりそうです。</p>
+
+<div class="contents">
+<div style="padding: 0px 30px !important;" class="contents_inner">
+<p class="contents_title" style="margin: 0px;">■あわせて読みたい</p>
+<p><span style="text-decoration: none;">
+・<a href="https://smmlab.jp/article/what-ec-company-will-be-like-after-covid19/" target="_blank" rel="noopener noreferrer">EC企業のマーケターに聞いた！コロナで変わったこと、これから大事になること</a></span>
+<br><span style="text-decoration: none;">
+・<a href="https://smmlab.jp/article/casestudy-marketing-digitalization/" rel="noopener noreferrer" target="_blank">【コロナがもたらしたDX革命】各業界の「EC化」「デジタル化」取り組み事例まとめ</a></span>
+<br><span style="text-decoration: none;">
+・<a href="https://smmlab.jp/article/facebook-shops/" rel="noopener noreferrer" target="_blank">【日本でも提供開始！】無料でECが作れる「Facebook ショップ」の基本機能とは？</a></span></p>
+</div>
+</div>
+
+
+<div class="annotation">
+<p>※1）<a href="https://www.meti.go.jp/policy/it_policy/statistics/outlook/H30_hokokusho_new.pdf" target="_blank" rel="noopener noreferrer">平成 30 年度我が国におけるデータ駆動型社会に係る基盤整備（電子商取引に関する市場調査）｜経済産業省　商務情報政策局 情報経済課
+</a><br>
+※2）<a href="https://www.facebook.com/business/instagram/shopping/guide" rel="nofollow noopener noreferrer" target="_blank">Instagramショッピングの設定方法｜Facebook for Business
+</a><br>
+※3）<a href="https://about.fb.com/ja/news/2019/10/instagram_shopping_posts_as_ads/" rel="nofollow noopener noreferrer" target="_blank">Instagram、ショッピング投稿を広告として配信する機能をすベてのビジネスに提供開始｜Facebook 
+</a><br>
+※4）<a href="https://about.fb.com/ja/news/2020/09/guide/" rel="nofollow noopener noreferrer" target="_blank">Instagram、おすすめの商品やスポットなどを紹介する「まとめ機能」のテストを開始｜Facebook
+</a><br>
+※5）<a href="https://help.instagram.com/357872324807367/?helpref=hc_fnav&amp;bc[0]=Instagram%E3%83%98%E3%83%AB%E3%83%97&amp;bc[1]=Instagram%E3%81%AE%E4%BD%BF%E7%94%A8" rel="nofollow noopener noreferrer" target="_blank">Instagram、Instagramチェックアウト｜Instagramヘルプセンター
+</a><br>
+※6）<a href="https://pay.facebook.com/" rel="nofollow noopener noreferrer" target="_blank">Facebook Pay is a seamless, secure way to pay on the apps you already use｜Facebook
+</a><br>
+※7）<a href="https://about.fb.com/ja/news/2020/10/shopping_on_igtv/" rel="nofollow noopener noreferrer" target="_blank">Instagram、IGTVでもショッピングが楽しめるように 今年後半からリールでのテストも開始｜Facebook
+</a></p>
+</div>
+
+
+
+<p><a href="https://service.aainc.co.jp/product/echoes-instagram/whitepaper/001?utm_source=smmlab&amp;utm_medium=referral&amp;utm_content=bottombanner" rel="nofollow noopener noreferrer" target="_blank"><img src="https://smmlab.jp/wp-content/uploads/2020/10/bnr.jpg" alt="" style="width:100%" class="wp-image-46877"></a></p>
+
+
+
+<p></p>
+            <!-- /.article-body --></div>
+        </section>
+            <div class="this-share">
+                <p class="this-share_title">この記事をシェアする</p>
+                <p class="c_copy_button"><a href="javascript:copy('【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント　https://smmlab.jp/article/how-to-use-instagram-shopping/');">タイトルとURLをコピー</a></p>
+                <ul class="share-button">
+    <li class="share-button_item tw"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&text=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&tw_p=tweetbutton" target="_blank" rel="nofollow"><span>ツイート</span></a></li>
+    <li class="share-button_item fbs"><a href="https://www.facebook.com/sharer.php?src=bm&u=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&t=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" target="_blank" rel="nofollow"><span>シェア</span><span class="count">14</span></a></li>
+        <li class="share-button_item hat"><a href="https://b.hatena.ne.jp/add?mode=confirm&url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F" target="_blank" rel="nofollow"><span>はてブ</span><span class="count"></span></a></li>
+    <li class="share-button_item poc"><a href="https://getpocket.com/edit?url=https%3A%2F%2Fsmmlab.jp%2Farticle%2Fhow-to-use-instagram-shopping%2F&title=%E3%80%90Instagram%E3%81%A7EC%E5%A3%B2%E4%B8%8A%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%80%91%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD%E3%82%92%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE5%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" target="_blank" rel="nofollow"><span>Pocket</span><span class="count">9</span></a></li>
+</ul>                                <ul class="tag_list">
+                                        <li class="tag_item"><a href="https://smmlab.jp/tag/instagram/">Instagram</a></li>
+                                        <li class="tag_item"><a href="https://smmlab.jp/tag/sns-account/">SNS運用</a></li>
+                                        <li class="tag_item"><a href="https://smmlab.jp/tag/direct-marketing/">ダイレクトマーケティング</a></li>
+                                        <li class="tag_item"><a href="https://smmlab.jp/tag/know-how/">ノウハウ</a></li>
+                                    </ul>
+                            </div>
+        <div class="section-wrap">
+            
+                                </div>
+                        <section class="sec3col">
+            <h2 class="sec3col_title c_cont-title">おすすめ記事</h2>
+            <ul class="sec3col_list">
+                                <li class="sec3col_item">
+                    <a href="https://smmlab.jp/article/sns-research-2020/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/10/ogp_201006.jpg" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">【2020年最新版】5大SNSユーザーによる「SNSをきっかけとした購買行動・口コミ行動調査結果」公開！（Twitter、Instagram、Facebook、LINE、YouTube）</p>
+                            <p class="date">2020.10.09</p>
+                        </div>
+                    </a>
+                </li>
+                                <li class="sec3col_item">
+                    <a href="https://smmlab.jp/article/how-to-generate-ugc/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/09/ugc_generate_ogp.jpg" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">【事例で解説！効果的なUGCの増やし方】認知拡大から継続購入まで、目的に応じたUGC生成方法とは</p>
+                            <p class="date">2020.09.28</p>
+                        </div>
+                    </a>
+                </li>
+                                <li class="sec3col_item">
+                    <a href="https://smmlab.jp/article/how-to-use-instagram-shopping/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/11/ogp_201030.jpg" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">【InstagramでEC売上をアップ！】ショッピング機能を効率的に活用するための5つのポイント</p>
+                            <p class="date">2020.11.05</p>
+                        </div>
+                    </a>
+                </li>
+                            </ul>
+        </section>
+            </article>
+    <aside class="aside" id="jsAside">
+    <div class="aside_inner">
+                                    <!-- wp:html -->
+<section class="topics">
+<div class="topics_inner">
+<h1 class="topics_title">お役立ち資料</h1>
+
+<div class="topics_image"><a href="https://smmlab.jp/whitepaper/d2cbrand-casestudy/"><img src="https://smmlab.jp/wp-content/uploads/2020/10/bnr_labtop_l-1.jpg" alt=""></a></div>
+
+<div class="topics_image"><a href="https://smmlab.jp/whitepaper/twitter-promotion-casestudy/">
+<img src="http://smmlab.jp/wp-content/uploads/2020/02/bnr_labtop_l-2.jpg" alt=""></a></div>
+
+<!--<div class="topics_image"><a href="https://smmlab.jp/whitepaper/survey-for-sns-users-with-covid19-2/"><img src="https://smmlab.jp/wp-content/uploads/2020/08/bnr_labtop_l-1.jpg" alt=""></a></div>-->
+
+<div class="topics_image"><a href="https://smmlab.jp/whitepaper/cosme-marketing-casestudy/"><img src="https://smmlab.jp/wp-content/uploads/2020/08/bnr_labtop_l_200827.jpg" alt=""></a></div>
+
+
+</div>
+</section>
+<!-- /wp:html -->                                            <section class="side-sec1col">
+            <h1 class="side-sec1col_title c_cont-title">人気の記事</h1>
+            <ul class="side-sec1col_list" id="slider">
+                                <li class="side-sec1col_item">
+                    <a href="https://smmlab.jp/article/q-and-a-about-twitter/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/10/ogp_201020.jpg" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">【2021年からTwitterを始めたい方必見！】Twitter企業アカウント担当者のよくある質問10個に答えてみた！～マーケティング施策の「あるある」一問一答</p>
+                            <p class="date">2020.10.22</p>
+                        </div>
+                    </a>
+                </li>
+                                <li class="side-sec1col_item">
+                    <a href="https://smmlab.jp/article/ec-directmarketing-real/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/10/ogp.png" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">ダイレクトマーケ担当者に聞いた！ EC通販現場の”裏バナシ”　～新規顧客獲得向け広告・LPのリアル～</p>
+                            <p class="date">2020.10.28</p>
+                        </div>
+                    </a>
+                </li>
+                                <li class="side-sec1col_item">
+                    <a href="https://smmlab.jp/article/sns-movie-marketing/">
+                        <div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/10/ogp_201014.jpg" alt=""></div>
+                        <div class="text-wrap">
+                            <p class="text">SNSの動画マーケティングを成功に導く４つのポイント〜10個の事例から読み解くSNS公式アカウントへの動画活用施策〜</p>
+                            <p class="date">2020.10.16</p>
+                        </div>
+                    </a>
+                </li>
+                            </ul>
+        </section>
+        
+                                                <!-- wp:html -->
+<section class="side-sec1col exception">
+<h1 class="side-sec1col_title c_cont-title">セミナー情報</h1>
+<ul class="side-sec1col_list">
+<li class="side-sec1col_item">
+<a href="https://service.aainc.co.jp/product/seminar/20201118?utm_source=smmlab&amp;utm_campaign=20201118_webseminar&amp;utm_medium=referral&amp;utm_content=sidebanner" target=" _blank" rel="”noopener noopener noreferrer">
+<div class="image"><img src="https://service.aainc.co.jp/hubfs/20201118SaaSseminar/seminar_201118.jpg" alt=""></div>
+<div class="text-wrap">
+<p class="text">オルビス & エーザイ の現場の裏バナシ！
+ECの新規獲得を飛躍させる広告・LPのリアル</p>
+<p class="date">2020.11.18</p>
+</div></a>
+</li>
+</ul>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->            
+                                        <!-- wp:html -->
+<section class="side-sec1col exception">
+<h1 class="side-sec1col_title c_cont-title">おすすめのお役立ち資料</h1>
+<ul class="side-sec1col_list">
+<li class="side-sec1col_item">
+<a href="https://smmlab.jp/whitepaper/d2cbrand-casestudy/" target="_blank" rel="noopener noreferrer">
+<div class="image"><img src="https://smmlab.jp/wp-content/uploads/2020/10/bnr_labtop_l-1.jpg" alt=""></div>
+<div class="text-wrap">
+<p class="text">有名D2Cブランドの「UGC活用」事例集7選</p></div>
+</a></li>
+</ul>
+</section>
+<!-- /wp:html -->            
+            </div>
+</aside></main>
+<section class="social" id="jsSocial">
+    <h1 class="social_title"><span><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/pic_logo-wh.png" alt="SMMLab"></span>最新情報を受け取る</h1>
+    <p class="social_button"><a href="/mail-magazine/">メールマガジン登録</a></p>
+    <ul class="social_list">
+        <li class="social_item tw"><a href="https://twitter.com/smmlab" rel="nofollow" target="_blank"><span><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/icon_tw-wh.svg" alt="Twitter"></span>Twitter</a></li>
+        <li class="social_item fb"><a href="https://www.facebook.com/smmlab/" rel="nofollow" target="_blank"><span><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/icon_fb-wh.png" alt="Facebook"></span>Facebook</a></li>
+    </ul>
+</section><script>
+    function copy(str) {
+        if(!str || typeof(str) != "string") {
+            return "";
+        }
+
+        $(document.body).append("<textarea id=\"tmp_copy\" style=\"position:fixed;right:100vw;font-size:16px;\" readonly=\"readonly\">" + str + "</textarea>");
+        var elm = $("#tmp_copy")[0];
+
+        elm.select();
+
+        var range = document.createRange();
+        range.selectNodeContents(elm);
+        var sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+        elm.setSelectionRange(0, 999999);
+
+        document.execCommand("copy");
+
+        $(elm).remove();
+    }
+</script>
+<footer class="footer">
+    <div class="footer_inner">
+        <div class="footer_group">
+            <h2 class="footer_title"><a href="/"><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/pic_logo-wh.png" alt="SMMLab"></a></h2>
+        </div>
+        <div class="footer_group">
+            <h3 class="footer_sub-title"><a href="/">トップ</a></h3>
+            <h3 class="footer_sub-title"><a href="/article/">記事一覧</a></h3>
+        </div>
+        <div class="footer_group">
+            <h3 class="footer_sub-title">タグから探す</h3>
+            <div class="footer-category">
+                <ul class="footer-category_list">
+                                                                <li class="footer-category_item"><a href="https://smmlab.jp/tag/twitter/">Twitter</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/instagram/">Instagram</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/line/">LINE</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/youtube/">Youtube</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/facebook/">Facebook</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/d2c/">D2C</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/subscription/">サブスクリプション</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/ugc/">UGC</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/video/">動画</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/influencer/">インフルエンサー</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/interview/">インタビュー</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/case-study/">事例まとめ</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/seminar/">セミナーレポート</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/survey-data/">調査・データ</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/terms/">用語解説</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/direct-marketing/">ダイレクトマーケティング</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/fan-marketing/">ファンマーケティング</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/ads/">広告</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/campaign/">キャンペーン</a></li>
+                                            <li class="footer-category_item"><a href="https://smmlab.jp/tag/sns-account/">SNS運用</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="footer_group">
+            <div class="inner">
+                <div class="footer_sub-title-wrap">
+                    <h3 class="footer_sub-title"><a href="/whitepaper/">お役立ち資料</a></h3>
+                    <h3 class="footer_sub-title"><a href="https://service.aainc.co.jp/seminar/​">セミナー情報</a></h3>
+                    <h3 class="footer_sub-title"><a href="/mail-magazine/">メールマガジン登録</a></h3>
+                    <h3 class="footer_sub-title"><a href="/aboutus/">SMMLabについて</a></h3>
+                </div>
+                <ul class="footer-icon_list">
+                    <li class="footer-icon_item tw"><a href="https://twitter.com/smmlab" rel="nofollow" target="_blank"></a></li>
+                    <li class="footer-icon_item fb"><a href="https://www.facebook.com/smmlab/" rel="nofollow" target="_blank"></a></li>
+                </ul>
+            </div>
+            <div class="inner">
+                <h3 class="footer_sub-title">運営元</h3>
+                <div class="footer_image-wrap">
+                    <p class="footer_image"><span><img src="https://smmlab.jp/wp-content/themes/smm-lab/img/pic_company-logo.png" alt="Allied Architects"></span>アライドアーキテクツ株式会社</p>
+                    <div class="footer_butotn-wrap">
+                        <p class="footer_butotn"><a href="https://service.aainc.co.jp/">事業内容を見る</a></p>
+                        <p class="footer_butotn"><a href="https://www.aainc.co.jp/contactportal/">お問い合わせ</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copy-right">
+        <div class="copy-right_inner">
+            <div class="copy-right_title-wrap">
+                <p class="copy-right_title"><a href="https://service.aainc.co.jp/privacy">プライバシーポリシー</a></p>
+                <p class="copy-right_title"><a href="https://www.aainc.co.jp/mk/request/01841.html">お問い合わせ</a></p>
+            </div>
+            <p class="copy-right_text">Copyright © 2020 Allied Architects, Inc.</p>
+        </div>
+    </div>
+    <p class="page-top"><a href="#" id="pageTop"></a></p>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js'></script>
+<script src="https://smmlab.jp/wp-content/themes/smm-lab/js/util.js"></script>
+
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"7.45.6"};
+/* ]]> */
+</script>
+<script async defer id="hs-script-loader" type='text/javascript' src='https://js.hs-scripts.com/2021159.js?integration=WordPress' id='leadin-script-loader-js-js'></script>
+<script type='text/javascript' src='https://smmlab.jp/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+</body>
+</html>
