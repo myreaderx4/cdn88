@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="GIPHY Engineering">
+    <meta name="author" content="">
+
+    <title>GIPHY Engineering |  &raquo; Contextually-Aware Search: GIPHY Gets Work-Specific  &raquo; Contextually-Aware Search: GIPHY Gets Work-Specific</title>
+
+    <link href="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/themes/giphy-engineering/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/themes/giphy-engineering/css/boilerplate.css" rel="stylesheet">
+    <link href="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/themes/giphy-engineering/css/style.css" rel="stylesheet">
+
+    
+    <meta name="keywords" content="GIPHY developers, GIPHY api, animated GIF API, GIF API, GIF applcations, GIF apps, GIFs for iOS, GIFs for android, GIPHY API key">
+    <meta property="og:site_name" content="GIPHY Engineering">
+    <meta property="og:url" content="https://engineering.giphy.com/contextually-aware-search-giphy-gets-work-specific/">
+    <meta property="og:title" content="Contextually-Aware Search: GIPHY Gets Work-Specific">
+    <meta property="og:description" content="GIPHY Engineering blog.">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://engineering.giphy.com/wp-content/uploads/2018/09/slack-search.gif">
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Contextually-Aware Search: GIPHY Gets Work-Specific">
+    <meta name="twitter:creator" content="@giphy">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="GIPHY Engineering blog">
+    <meta name="twitter:image:src" content="https://engineering.giphy.com/wp-content/uploads/2018/09/slack-search.gif">
+    <meta name="twitter:image" content="https://engineering.giphy.com/wp-content/uploads/2018/09/slack-search.gif">
+    <meta name="twitter:domain" content="giphy.com">
+
+
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="GIPHY Engineering &raquo; Contextually-Aware Search: GIPHY Gets Work-Specific Comments Feed" href="https://engineering.giphy.com/contextually-aware-search-giphy-gets-work-specific/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/engineering.giphy.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/plugins/beautiful-taxonomy-filters/public/css/select2.min.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='beautiful-taxonomy-filters-basic-css'  href='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/plugins/beautiful-taxonomy-filters/public/css/beautiful-taxonomy-filters-base.min.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css'  href='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://engineering.giphy.com/wp-json/" /><link rel="alternate" type="application/json" href="https://engineering.giphy.com/wp-json/wp/v2/posts/488" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://engineering.giphy.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://engineering.giphy.com/contextually-aware-search-giphy-gets-work-specific/" />
+<link rel='shortlink' href='https://engineering.giphy.com/?p=488' />
+<link rel="alternate" type="application/json+oembed" href="https://engineering.giphy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fengineering.giphy.com%2Fcontextually-aware-search-giphy-gets-work-specific%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://engineering.giphy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fengineering.giphy.com%2Fcontextually-aware-search-giphy-gets-work-specific%2F&#038;format=xml" />
+		<style type="text/css" id="wp-custom-css">
+			.post .image-thumbnail {
+    min-height: 225px !important;
+}
+/*image wrapping in wordpress posts*/
+img.alignright {float:right; margin:1em 0 1em 1em}
+img.alignleft {float:left; margin:1em 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.alignright {float:right; }
+.alignleft {float:left; }
+.aligncenter {display: block; margin-left: auto; margin-right: auto}		</style>
+		
+</head>
+<body>
+
+
+<nav class="navbar navbar-fixed-top hidden-xs">
+  <div class="container">
+      <div class="navbar-header">
+          <div class="logo" onclick="javascript:location.href='https://engineering.giphy.com'"> </div>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+              <li><a id="blog" class='active' href="/blog">Blog</a></li>
+              <li><a id="events"  href="/events">Events</a></li>
+              <li><a id="about"  href="/about">About</a></li>
+              <li><a id="artists"  href="//developers.giphy.com">API</a></li>
+          </ul>
+      </div>
+  </div>
+</nav>
+
+<nav class="navbar navbar-default hidden-lg hidden-md hidden-sm">
+    <div class="container-fluid" style="padding: 0; margin: 0;">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header" style="padding: 0 5px;">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand logo" onclick="javascript:location.href='/'"> </div>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav mobile-nav">
+                <li style="background-color: #d646b6; margin: 0;"><a  href="/blog">Blog</a></li>
+                <li style="background-color: rgba(0, 0, 0, 0.07); margin: 0;"><a  href="/events">Events</a></li>
+                <li style="background-color: rgba(0, 0, 0, 0.12); margin: 0;"><a  href="/about">About</a></li>
+                <li style="background-color: rgba(0, 0, 0, 0.16); margin: 0;"><a  href="//api.giphy.com">API</a></li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+<div class="container main">
+  <div class="row">
+    <div class="col-md-8 blog-main">
+
+                           <div class="post">
+              <h1 class="title">Contextually-Aware Search: GIPHY Gets Work-Specific</h1>
+                <p class="date">September 4, 2018 by <span class="author">Zachary Hay</span></p>
+                                   <div class="image-thumbnail">
+                     <img width="480" height="480" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/slack-search.gif" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" />                  </div>
+                              <p><span style="font-weight: 400;">GIPHY has popular integrations on many platforms like Facebook Messenger, Twitter, and Slack. We serve tens of billions of requests a month to all integrations via our API. Users search our industry-leading database of GIFs and stickers to find the perfect one to send in all of these messaging platforms.</span></p>
+<p><span style="font-weight: 400;">GIPHY’s search engine calculates CTR rates via giphy.com and mobile apps. We are optimizing the search engine for these contexts. I found that users’ content preferences on Slack differ significantly than the preferences of mobile and website users, meaning that the best GIFs for Slack were not always in the top of search results. To solve this problem, I introduced a contextually-aware search algorithm for our Slack integration. This resulted in the significant reordering of many search results, and a large relative increase of 7.4% in the overall send rate of users in the Slack integration.</span></p>
+<p>&nbsp;</p>
+<p class="c11"><strong><span class="c2">THE GIPHY SLACK INTEGRATION</span></strong></p>
+<p><span style="font-weight: 400;">GIPHY’s Slack integration lets users send GIFs and stickers to coworkers using the </span><a href="https://developers.giphy.com/"><span style="font-weight: 400;">translate endpoint</span></a><span style="font-weight: 400;"> in our API. The integration has two modes: shuffle and random. Sending the “/giphy query” command in shuffle mode starts a search session where users shuffle through a list of GIFs until they find the perfect one to send. My project revolved around calculating the send rates for specific GIFs using click-actions from shuffle mode more on that later). The random mode is a bit more exciting. Users enter the slack command and a GIF is immediately sent from a pool ofrelevant GIFs.</span></p>
+<p><span style="font-weight: 400;">On GIPHY.com or the mobile app, users can scroll through pages of GIF search results to make a selection. However, our Slack integration presents a unique search context since users are only presented with a single GIF at a time. This poses a challenge because we have to inject a bit of randomness in the mix to make things novel and fun while keeping the results relevant.</span></p>
+<p class="c12" style="text-align: center;"><strong><span class="c2">Two ways of celebrating in Slack at work</span></strong></p>
+<p class="c11" style="text-align: center;"><strong>               <span class="c9">Shuffle Mode  </span>                                                             <span class="c9">Random Mode</span></strong></p>
+<p class="c11" style="text-align: center;">    <img loading="lazy" class="wp-image-490 alignnone" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image7.gif" alt="" width="250" height="206" />                               <img loading="lazy" class="wp-image-491 alignnone" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image2.gif" alt="" width="250" height="206" /><img class="alignleft" title="" src="images/image7.gif" alt="" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="c12" style="text-align: center;"><strong><span class="c2">Celebrating on Giphy.com</span></strong></p>
+<p class="c12" style="text-align: center;"><span class="c0">Many GIFs &#8211; One Page</span></p>
+<p class="c12" style="text-align: center;"><img loading="lazy" class="wp-image-489 aligncenter" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image1-1.png" alt="" width="376" height="355" srcset="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image1-1.png 1337w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image1-1-300x283.png 300w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image1-1-768x725.png 768w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image1-1-1024x967.png 1024w" sizes="(max-width: 376px) 100vw, 376px" /><img class="aligncenter" title="" src="images/image1.png" alt="" /></p>
+<p>&nbsp;</p>
+<p class="c11"><strong><span class="c2">CONTEXTUALLY-AWARE SLACK SEARCH</span></strong></p>
+<p><span style="font-weight: 400;">GIPHY engineers previously implemented a creative solution around the constraints of the Slack integration called the translate endpoint. The previous release of the translate endpoint selected a GIF from the top 25 search results for a query, with a larger probability of selecting a GIF with a higher ranking. This way, users received a variety of relevant GIFs, instead of the same one or two ad nauseum. The goal of contextually-aware search was to release a new version of the translate endpoint featuring Slack-specific search weights. To do this, we utilized click-action data collected from our Slack integration to calculate the send rate of a GIF with a given query.</span></p>
+<p><span style="font-weight: 400;">I wrote a Spark job to calculate the send rate of a GIF with its query over an arbitrary period of time. By calculating the send rate over several months, there’s enough example data (query/ GIF/ user action) to make an informed estimate of the send rate over an enormous number of searches. </span></p>
+<p class="c12" style="text-align: center;"><strong><span class="c2">What is the difference between these two GIFs?</span></strong></p>
+<p class="c12" style="text-align: center;"> <img loading="lazy" class="alignnone wp-image-492" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image4.gif" alt="" width="303" height="220" />                                               <img loading="lazy" class="alignnone size-full wp-image-493" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image6.gif" alt="" width="168" height="250" /></p>
+<p><span style="font-weight: 400;">The angry doctor GIF on the left is the highest-ranked GIF in our database for the query “monday” (according to multiple factors, including CTR) while the escalator GIF on the right is ranked 16th. Their Slack send rates, however, vary greatly. The escalator GIF is sent 46% of the times it’s seen, while only 25% for angry doctor GIF. Prior to my project, the Slack Integration would be five times more likely to return the angry doctor GIFthan the elevator GIF. This large  discrepancy affected hundreds of other popular queries like “mad,” “sweet,” and “thanks.” Clearly, Slack users have different content preferences than users of our other products, and we had a great case for creating Slack-specific search scores in the integration.</span></p>
+<p><span style="font-weight: 400;">Our next step was to update the translate endpoint to utilize the powerful send rate data we calculated for a given GIF/query pair. We decided to build on top of the base logic of the previous version of the translate endpoint, but expanded the pool of GIFs from 25 to 50. Now, GIPHY’s search engine returns the top 50 GIFs for a search, then the translate endpoint orders them according to their Slack-specific send rate.</span></p>
+<p class="c11">My blog post would not be complete without revealing all new features of the translate endpoint available to developers <span class="c1"><a class="c16" href="https://www.google.com/url?q=https://developers.giphy.com/&amp;sa=D&amp;ust=1535659724901000">here</a></span> in addition to the Slack-specific search score detailed above:</p>
+<p class="c11" style="padding-left: 60px;"><strong>&#8211; </strong>N<span style="font-weight: 400;">o duplicates in shuffle mode. We now keep shuffle session state so the same GIF will not be returned within 10 shuffles.</span><br />
+<span class="c0"><strong>&#8211; </strong>Weirdness <span style="font-weight: 400;">as you shuffle. The start of a shuffle session returns highly relevant GIFs; they get weirder (or more random) as you shuffle.</span><br />
+</span><span class="c0"><strong>&#8211; </strong>A weirdness param can be passed to the translate endpoint. It determines how weird (or random) the GIFs we return will be.<br />
+</span><strong>&#8211; </strong>New GIFs or stickers added to GIPHY’s database that Slack users enjoy will quickly “bubble up” to the top of the search results due to continuously recalculating send rate data.</p>
+<p class="c11"><span style="font-weight: 400;">We implemented all of these features into a compact mircroservice with a queryable API that could handle Slack’s daily throughput. A Redis datastore was used to hold all send rate information. Below is a diagram laying out the architecture and flow of a request:</span></p>
+<p class="c11">          <img loading="lazy" class="wp-image-494 alignnone" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image3.png" alt="" width="561" height="386" srcset="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image3.png 942w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image3-300x207.png 300w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image3-768x529.png 768w" sizes="(max-width: 561px) 100vw, 561px" /></p>
+<p>&nbsp;</p>
+<p class="c11"><strong><span class="c9">MEASURING IMPACT</span></strong></p>
+<p class="c11"><span style="font-weight: 400;">There were three Key Performance Indicators (KPIs) established for measuring success of the revamped Slack integration: shuffle mode session length; overall send rate; and the “one GIF, one submit” rate of shuffle mode sessions. The “one GIF, one submit” rate is important because it is a proxy for the quality of random mode GIFs. We can’t directly measure random mode sessions because the first GIF is always returned. There is no notion of shuffling, canceling, or sending. A high “one GIF, one submit” rate in shuffle mode, though, indicates that users are getting a good GIF in random mode because shuffle mode and random mode use the same underlying process.</span></p>
+<p><img loading="lazy" class="alignnone wp-image-498" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Screen-Shot-2018-09-04-at-1.43.11-PM.png" alt="" width="618" height="242" srcset="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Screen-Shot-2018-09-04-at-1.43.11-PM.png 1128w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Screen-Shot-2018-09-04-at-1.43.11-PM-300x118.png 300w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Screen-Shot-2018-09-04-at-1.43.11-PM-768x301.png 768w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Screen-Shot-2018-09-04-at-1.43.11-PM-1024x401.png 1024w" sizes="(max-width: 618px) 100vw, 618px" /></p>
+<p class="c11"><span style="font-weight: 400;">After deploying Slack-specific search for a week, we saw dramatic improvements in all three metrics. These increases are calculated across </span><b>all queries,</b><span style="font-weight: 400;"> not just a high performing subset. Furthermore, A higher proportion of sessions ended in 0-1 shuffle, which means shuffle mode users aren’t having to work as hard to get the GIFs they want. Contextually aware search had a huge impact on our KPI!</span></p>
+<p>&nbsp;</p>
+<p class="c12" style="text-align: center;"><strong><span class="c9">HOURLY ONE GIF, ONE SEND RATE (AUG 13-AUG 21)</span></strong></p>
+<p class="c12" style="text-align: center;"><img loading="lazy" class="wp-image-495 aligncenter" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image5.png" alt="" width="441" height="230" srcset="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image5.png 1240w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image5-300x157.png 300w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image5-768x401.png 768w, https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/image5-1024x534.png 1024w" sizes="(max-width: 441px) 100vw, 441px" /><img title="" src="images/image5.png" alt="" /></p>
+<p>&nbsp;</p>
+<p class="c11"><strong><span class="c2">MY SUMMER AT GIPHY</span></strong></p>
+<p><span style="font-weight: 400;">I worked on this project as a Search Engineering Intern on the R&amp;D team. The R&amp;D team works on a variety of long-range projects to improve search from content moderation to GIF recommendations using machine learning and adaptive systems. We are tasked with introducing new, cutting edge technology and forward thinking products.</span></p>
+<p><span style="font-weight: 400;">I want give a big shout out to Nick Hasty, my PM and mentor for the summer. He introduced me to the GIPHY tech stack and gave me support throughout the project from product vision to productionalizing the code. Ihor Kroosh and Denis Sergienko from Rails Reactor were both essential members of the team. Their expertise in Luigi scheduling, Kubernetes, and deployment was invaluable throughout the process. Anthony Johnson, Sixuan Liu, and Sean Quigley all took time to ensure the project’s success even though they are not members of the R&amp;D team. </span></p>
+<p class="c11"><span class="c0">Thank you all!</span></p>
+<p class="c11">&#8211; <span class="c1"><a class="c16" href="https://www.google.com/url?q=http://www.linkedin.com/in/zahay&amp;sa=D&amp;ust=1535659724909000">Zach Hay</a></span><span class="c0">, Search Engineering Intern</span></p>
+            </div><!-- /.blog-post -->
+                   
+      <nav>
+        <ul class="pager">
+          <li><a href="https://engineering.giphy.com/giphy-pennapps-2/" rel="prev">Previous Post</a></li>
+          <li><a href="https://engineering.giphy.com/giphy-hackmit/" rel="next">Next Post</a></li>
+        </ul>
+      </nav>
+
+    </div><!-- /.blog-main -->
+
+    <div class="col-sm-4 sidebar">
+            
+		<div class="sidebar-module">
+		<h4>Recent Posts</h4>
+		<ul>
+											<li>
+					<a href="https://engineering.giphy.com/giphy-product-spotlight-a-b-testing-in-search/">GIPHY Product Spotlight: A/B testing in Search</a>
+									</li>
+											<li>
+					<a href="https://engineering.giphy.com/how-giphy-uses-fastly-to-achieve-global-scale/">How GIPHY uses Fastly to Achieve Global Scale</a>
+									</li>
+											<li>
+					<a href="https://engineering.giphy.com/giphy-text-is-now-live-in-our-sdk-and-chrome-extensions/">GIPHY Text is Now Live in Our SDK and Chrome Extensions</a>
+									</li>
+											<li>
+					<a href="https://engineering.giphy.com/giphy2vec-natural-language-processing-giphy/">GIPHY2Vec: Natural Language Processing @ GIPHY</a>
+									</li>
+											<li>
+					<a href="https://engineering.giphy.com/part-2-computer-vision-giphy-how-we-created-an-autotagging-model-using-deep-learning/">Part 2: Computer Vision @ GIPHY: How we Created an AutoTagging Model Using Deep Learning</a>
+									</li>
+					</ul>
+
+		</div>    </div><!-- /.blog-sidebar -->
+  </div><!-- /.row -->
+</div><!-- /.container -->
+<footer>
+    <div class="footer-container" >        
+		<div class="footer-text">
+			<p>&copy; 2021 - GIPHY Engineering</p>
+		</div>
+		<div class="link-bar">
+				<a class="giphy-link-button link-no-icon" href="https://boards.greenhouse.io/giphy" target="_blank">HIRING</a>
+			<div class="twitter-icon">
+				<a class="link" href="https://twitter.com/GiphyEng" target="_blank"></a>
+			</div>
+			<div class="instagram-icon">
+				<a class="link" href="https://www.instagram.com/giphyeng/" target="_blank"></a>
+			</div>
+			<div class="github-icon">
+				<a class="link" href="https://github.com/Giphy/" target="_blank"></a>
+			</div>
+		</div>
+        
+		<link rel='stylesheet' id='‘style’-css'  href='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/themes/giphy-engineering/style.css?b-modified=1558470112&#038;ver=5.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/plugins/beautiful-taxonomy-filters/public/js/select2/select2.full.min.js?ver=2.4.3-b-modified-1558469305' id='select2-js'></script>
+<script type='text/javascript' id='beautiful-taxonomy-filters-js-extra'>
+/* <![CDATA[ */
+var btf_localization = {"ajaxurl":"https:\/\/engineering.giphy.com\/wp-admin\/admin-ajax.php","min_search":"8","allow_clear":"","show_description":"","disable_select2":"","conditional_dropdowns":"","language":"","rtl":"","disable_fuzzy":"","show_count":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/plugins/beautiful-taxonomy-filters/public/js/beautiful-taxonomy-filters-public.js?ver=2.4.3-b-modified-1558469305' id='beautiful-taxonomy-filters-js'></script>
+<script type='text/javascript' src='https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+	</div>
+	
+</footer>
+
+<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-41', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>
